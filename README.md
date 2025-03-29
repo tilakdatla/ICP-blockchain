@@ -38,3 +38,7 @@ To run this project, you must install:
 
 # Transfer half a billion tokens to the canister
 `dfx canister call token transfer "($CANISTER_PUBLIC_KEY, 500_000_000)"`
+
+### Access the Application
+## Once the above steps are completed, you can open your browser and go to:
+`http://localhost:8080`
