@@ -14,9 +14,4 @@ To run this project, you must install:
 
 ### 1. Open a WSL window in VS Code
 ### 2. Install dependencies
-```sh
-npm i
-
-## Split the terminal into three sections and run the following:
-
-### First Terminal: Start the local ICP replica
+`paddle`
