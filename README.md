@@ -16,3 +16,7 @@ To run this project, you must install:
 ### 2. Install dependencies
 ```sh
 npm i
+
+## Split the terminal into three sections and run the following:
+
+### First Terminal: Start the local ICP replica
