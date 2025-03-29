@@ -42,3 +42,9 @@ To run this project, you must install:
 # Access the Application
 ## Once the above steps are completed, you can open your browser and go to:
 `http://localhost:8080`
+
+
+# Important Note
+## If you face any other issues, you can visit the documentation below for a better explanation.
+`https://docs.google.com/document/d/e/2PACX-1vTNicu-xuf4EiLAehHIqgfpjAnPjzqMGT-xpZVvYaAWNyvzYK_Ceve_me4PVRIxpzH7ea5PAX9NxGwY/pub`
+
